@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+
+    color: yellow;
+}
+
+h1, p {
+    color: black;
+}
+
+h1 {
+    /* margin: 10px 0 10px 10px; */
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+    text-align: left;
+}
+
+p {
+    text-align: justify;
+
+    margin-bottom: 5px;
+}
+
+/* Retirar a linha abaixo do link */
+a {
+    text-decoration: none;
+}
+
+p.paragrafo-diferantao {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    color: red;
+}
